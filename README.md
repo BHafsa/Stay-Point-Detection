@@ -1,2 +1,19 @@
-# Stay-Point-Detection
- All materials you need for stay point detection and trajectory analysis: blogs, videos, papers, and softwares, etc. 
+# Stay-Point-Detection 
+
+## Table of content
+
+## General resources
+
+### Blogs
+
+### Surveys and review studies
+
+### Benchmarks
+
+### Videos
+
+### Frameworks
+- [Trackintel](https://github.com/mie-lab/trackintel)
+- [MEOS](https://github.com/Yurui-Li/Stay-Point-Identification)
+- []
+
